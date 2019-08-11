@@ -1,0 +1,58 @@
+{
+  "Web": {
+    "1.0.3": {
+      "push_time": "1562061874516",
+      "zh_update_contant": "1、修复Ticket与深度数据偶发性不一致、交易对数据“窜台”问题；<br>2、提币、重复提交的优化处理；<br>3、用户KYC支持中文姓名及文案优化；<br>4、弹出框样式统一及K线主题优化；<br>5、增加了TradingView K线；<br>6、修复了其他一些小问题。",
+      "en_update_contant": "1.Fix the inconsistency between Ticket and deep data sporadic. <br>2.Fixed other minor problems"
+    },
+    "1.0.2": {
+      "push_time": "1561036500000",
+      "zh_update_contant": "修复了仅手机认证下不能提现的问题",
+      "en_update_contant": "Fixed a problem that could not be mentioned under mobile phone authentication only."
+    },
+    "1.0.1": {
+      "push_time": "1560613316755",
+      "zh_update_contant": "修复了一些bug",
+      "en_update_contant": "Fixed bugs"
+    }
+  },
+  "Desktop": [],
+  "App": {
+    "1.0.7": {
+      "push_time": "1565325819650",
+      "zh_update_contant": "最新版本：1.0.7<br>更新内容：程序员小哥哥修复了一些小Bug，优化了操作体验，请更新体验吧～",
+      "en_update_contant": "Fixed other minor problems"
+    },
+    "1.0.6": {
+      "push_time": "1562061874516",
+      "zh_update_contant": "1、新增提现撤销功能；<br>2、修复Ticker与深度数据偶发性不一致、交易对数据“窜台”问题；<br>3、提币、重复提交的优化处理；<br>4、默认关闭浮云插件、用户KYC支持中文姓名及文案优化；<br>5、弹出框样式统一及K线主题优化；<br>6、修复了其他一些小问题",
+      "en_update_contant": "1.Fix the inconsistency between Ticker and deep data sporadic. <br>2.Fixed other minor problems"
+    },
+    "1.0.5": {
+      "push_time": "1561036500000",
+      "zh_update_contant": "1、修复了仅手机认证下不能提现的问题；<br>2、修复了安卓闪退问题；<br>3、浮云插件高度重新计算处理；<br>4、新增委托管理 深色样式；<br>5、修复了其他一些小问题",
+      "en_update_contant": "1.Fixed a problem that could not be mentioned under mobile phone authentication only. <br>2.Fixed other minor problems"
+    },
+    "1.0.4": {
+      "push_time": "1560842786693",
+      "zh_update_contant": "1、攻城狮紧急修复了一小撮八哥（BUG）；<br>2、优化了部分用户体验",
+      "en_update_contant": "1.Fixed some bugs; <br>2.Optimized some user experience"
+    },
+    "1.0.3": {
+      "push_time": "1560717181065",
+      "zh_update_contant": "1、新增 手机注册 功能；<br>2、新增 暗色 版本皮肤；<br>3、新增 安卓版本 全局悬浮功能（免费使用）；<br>4、新增 分享 功能；<br>5、修复了一些BUG，优化了一些交互体验",
+      "en_update_contant": "1. Add mobile phone registration function; <br>2, add dark version skin; <br>3, add Android version global suspension function (free use); <br>4, add sharing function;<br>5 , fixed some bugs, optimized some interactive experiences"
+    },
+    "1.0.2": {
+      "push_time": "1560226812000",
+      "zh_update_contant": "修复了一些bug",
+      "en_update_contant": "Fixed bugs"
+    },
+    "1.0.1": {
+      "push_time": "1558437535000",
+      "zh_update_contant": "修复了一些bug",
+      "en_update_contant": "Fixed bugs"
+    }
+  },
+  "Pad": []
+}
