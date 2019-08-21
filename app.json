@@ -1,7 +1,7 @@
 {
   "code":"1",
   "err":"0",
-  "version":"1.0.1",
+  "version":"1.0.2",
   "core_version":"1.0.2",
   "core_version_ios":"1.0.2",
   "core_version_android":"1.0.2",
@@ -15,6 +15,6 @@
   "min_core_version":"1.0.2",
   "min_core_version_ios":"1.0.2",
   "min_core_version_android":"1.0.2",
-  "zipUrl":"https://kfcex.io/download/kfcex.v.1.0.2.zip",
+  "zipUrl":"https://kfcex.io/download/app.zip",
   "msg":"get success "
 }
