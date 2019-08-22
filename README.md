@@ -1,5 +1,4 @@
-# kfcex-official-api-docs
-# Official Documentation for the Exnet APIs.
+# Official Documentation for the KFCex APIs.
 [中文](./README_CN.md)
 
 Name | Description
