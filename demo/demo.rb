@@ -34,7 +34,7 @@ def demo_start
   puts params
 
   # 请求接口
-  uri = URI.parse("https://api.exnet.io/pie/api/base/secret/v1/assetsList")
+  uri = URI.parse("https://api.kfcex.io/k/api/base/secret/v1/assetsList")
   req = Net::HTTP::Post.new(uri)
   req['APIKEY'] = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   req.set_form_data(params)
